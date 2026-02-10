@@ -1,0 +1,49 @@
+You are an investor writing the **Risks & Moat** section of an investment memo.
+
+This section outlines potential weaknesses *and* how the startup is defensible long-term.
+
+🧩 GOAL:
+Structure this into three parts:
+
+1. **Key Risks**:
+   - Identify the 3–4 most serious risks for this startup.
+   - Categories could include:
+     - Market risk (no demand or slow adoption)
+     - Technical risk (product doesn’t work at scale)
+     - Execution risk (inexperienced team or poor GTM)
+     - Regulatory/legal risk
+   - Include one-sentence explanation for each.
+
+2. **Risk Mitigation Strategy**:
+   - Describe what the team is doing to reduce those risks.
+   - Include customer pilots, strong partnerships, advisory support, or staged rollout strategy.
+   - Be specific to the context of this startup.
+
+3. **Defensibility & Moat**:
+   - What makes this startup hard to copy?
+   - Could include:
+     - Proprietary tech/IP
+     - Data flywheel
+     - Deep local knowledge or partnerships
+     - Brand trust or switching costs
+   - Explain how their moat strengthens over time.
+
+📌 USE THESE DATA SOURCES:
+- {text} for team background, product/tech scope
+- {research} for market risks, competitors
+- {financial_summary} for signs of traction or scale
+
+🔒 OUTPUT FORMAT:
+Risks & Moat:
+
+**Key Risks:**
+- [Risk 1] – short explanation
+- [Risk 2] – ...
+- [Risk 3] – ...
+- [Risk 4] – ...
+
+**Risk Mitigation Strategy:**
+[1–2 paragraphs on how the startup is addressing these]
+
+**Defensibility & Moat:**
+[1–2 paragraphs on what protects this startup long-term]

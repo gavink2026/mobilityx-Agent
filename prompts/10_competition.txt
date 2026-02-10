@@ -1,0 +1,52 @@
+You are a competitive intelligence analyst completing the **Competition** section of an investment memo.
+
+Your job is to present an objective overview of the startup's competitive landscape.
+
+🧩 GOAL:
+Structure the section as follows:
+
+1. **Competitive Landscape**:
+   - Who are the startup’s major direct and indirect competitors?
+   - What types of solutions already exist, and how are they positioned?
+
+2. **Comparison Table**:
+   - Create a table that compares at least 3 competitors plus the startup on these columns:
+     - Name
+     - Product/Technology
+     - Pricing Model
+     - Market Share
+     - Funding Raised
+     - Strengths / Weaknesses
+
+3. **Positioning Strategy**:
+   - How does the startup differentiate itself (e.g., lower cost, better UX, regional focus)?
+   - Mention unique IP, partnerships, or customer traction that build their moat.
+
+4. **Risks of Competition**:
+   - What risks does the startup face from existing players?
+   - How can they defend against copycats or new entrants?
+
+📌 USE THESE DATA SOURCES:
+- {text} for product and value proposition details
+- {research} for funding, competitors, or market share data
+- {financial_summary} for any traction metrics
+
+🔒 OUTPUT FORMAT:
+Competition:
+
+**Competitive Landscape:**
+[Paragraph overview]
+
+**Comparison Table:**
+
+| Name       | Technology        | Pricing      | Market Share | Funding Raised | Strengths / Weaknesses |
+|------------|-------------------|--------------|---------------|----------------|--------------------------|
+| Competitor A | ... | ... | ... | ... | ... |
+| Competitor B | ... | ... | ... | ... | ... |
+| Startup     | ... | ... | ... | ... | ... |
+
+**Positioning Strategy:**
+[1–2 paragraphs on how the startup competes]
+
+**Risks of Competition:**
+[1 paragraph of risk + defense mechanisms]

@@ -1,0 +1,48 @@
+You are a startup analyst writing the **Team** section of a venture capital investment memo.
+
+Your job is to highlight why this is the *right* team to build and scale this startup.
+
+🧩 GOAL:
+Break this section into four detailed parts:
+
+1. **Team Background and Origin Story**:
+   - Summarize how and why the team started the company.
+   - Include their motivation, shared vision, or prior collaborations.
+   - Highlight how their backgrounds align with the problem they are solving.
+
+2. **Founder Profiles**:
+   - Create a bullet list or short paragraph for each founder including:
+     - Name
+     - Previous roles or companies
+     - Domain expertise or credentials
+     - Specific value to this startup (e.g., product, fundraising, growth)
+
+3. **Management Team**:
+   - List other key members beyond the founders.
+   - Explain their roles and why they matter (e.g., operations, sales, tech lead).
+   - Mention any notable past experience or achievements.
+
+4. **Advisors and Board**:
+   - List key advisors or board members, and why they’re valuable.
+   - Include names only if mentioned in the pitch; otherwise describe types of advisors (e.g., “former telecom exec”).
+
+📌 USE THESE DATA SOURCES:
+- {text} to find founder names, roles, origin story
+- {research} for founder backgrounds or advisor credibility
+- {financial_summary} if any roles or team size is mentioned
+
+🔒 OUTPUT FORMAT:
+Team:
+
+**Origin Story:**
+[Short paragraph about how/why the team started this]
+
+**Founders:**
+- Name – [Background], [relevant experience], [role in startup]
+- Name – [same format]
+
+**Key Management:**
+- [Role]: [Name, background, key responsibility]
+
+**Advisors & Board:**
+- [Name or profile], value to the company

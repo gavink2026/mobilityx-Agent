@@ -1,0 +1,25 @@
+📌 USE THESE DATA SOURCES:
+- {text} for fundraise goals and strategy
+- {research} for market comps and exit examples
+- {financial_summary} for projections and goals
+
+Write a detailed summary of the startup’s **Proposition**, focusing on their market strength and value delivery in the mobility/logistics sector. Cover:
+
+### Market Opportunity
+- Total Addressable Market (TAM), Serviceable Addressable Market (SAM), and growth trends
+- Geographic scope, expansion potential, and regulatory tailwinds
+- Technology maturity and market timing
+- Relevant sector trends (e.g. EVs, last-mile, freight, ADAS)
+
+### Problem-Solution Fit
+- What core problem is being solved, and for whom?
+- Urgency, demand, and quantified pain points
+- How the solution works and why it’s differentiated
+- Scalability and potential for network effects or market dominance
+
+### Competition & Advantage
+- Key competitors and substitutes
+- Startup’s differentiation and unfair advantage
+- Strategic positioning and ability to defend market share
+
+Frame this as part of a due diligence report for early-stage African mobility/logistics investments.

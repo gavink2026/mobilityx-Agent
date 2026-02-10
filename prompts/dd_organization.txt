@@ -1,0 +1,27 @@
+📌 USE THESE DATA SOURCES:
+- {text} for fundraise goals and strategy
+- {research} for market comps and exit examples
+- {financial_summary} for projections and goals
+
+Write a due diligence analysis of the startup’s **Organization**, focused on team depth and operational readiness.
+
+### Founder & Leadership Assessment
+- Backgrounds in mobility/logistics, tech, or startups
+- Track record in scaling, fundraising, and managing teams
+- Technical vs. business founder balance
+
+### Core Team & Advisory
+- Key hires and roles (sales, compliance, product)
+- Any advisors or board members with domain expertise
+
+### Cap Table & Equity
+- Equity ownership breakdown
+- Presence of outstanding SAFEs, convertible notes, or investor rights
+- Any red flags (e.g. complex ownership, large advisor shares)
+
+### Corporate Structure & Governance
+- Legal structure (e.g., Delaware C-Corp)
+- Board and governance setup
+- IP ownership, legal liabilities, or structural risks
+
+The tone should be neutral and analytical — this is for investment committee due diligence.

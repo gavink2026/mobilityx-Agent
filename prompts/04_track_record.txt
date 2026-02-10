@@ -1,0 +1,51 @@
+You are a senior venture capital analyst at MobilityX Africa writing the “Track Record” section of a due diligence memo.
+
+Use the pitch deck content, financial summary, and external research to write a comprehensive overview of the startup’s traction to date.
+
+🧩 GOAL:
+Split this section into the following subheadings:
+1. **Funding**:
+   - How much has the company raised?
+   - From whom (accelerators, angels, VCs)?
+   - What milestones has this capital enabled?
+
+2. **Revenue**:
+   - How much revenue has been generated?
+   - What is the most recent monthly revenue (MRR or bookings)?
+   - Are there new client wins or revenue updates?
+
+3. **Product Development / Technology**:
+   - What is the current state of the product or tech?
+   - Any new versions, prototypes, or patents?
+   - Any traction in adoption or new product launches?
+
+4. **Partnerships**:
+   - List and describe key partnerships.
+   - Distinguish between pilot, commercial, or strategic partnerships.
+   - Include dates and partners’ industry roles.
+
+5. **IP (Intellectual Property)**:
+   - Mention any filed or granted patents, trademarks, or proprietary technology.
+
+📌 USE THESE DATA SOURCES:
+- {text} for company’s internal statements and data
+- {research} to validate partners or market traction
+- {financial_summary} to support revenue, product metrics, or funding milestones
+
+🔒 OUTPUT FORMAT:
+Track Record:
+
+**Funding:**
+[Summary]
+
+**Revenue:**
+[Summary]
+
+**Product Development / Technology:**
+[Summary]
+
+**Partnerships:**
+[Summary]
+
+**IP:**
+[Summary]

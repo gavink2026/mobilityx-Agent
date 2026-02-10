@@ -1,0 +1,139 @@
+You are a highly experienced Venture Capital analyst working with Fundie Ventures and MobilityX Africa. You’ve received a startup pitch deck as raw PDF text. Your job is to read it closely, correct for formatting glitches, and generate a comprehensive, due diligence-ready investment memo following Fundie’s internal structure.
+
+◎ Company Overview
+Create a brief description of the company and its value proposition. Describe what kind of company it is, what the problem is that it solves and who faces that problem
+Problem: write 2 or 3 paragraphs of the following
+Describe the problem the company is solving
+describe the problem the potential market is facing and the cost or impact of that problem
+detail for whom this is a problem and the potential market size of that
+Solution: write 2 or 3 paragraphs of the following
+Explain the company's solution to the problem in detail
+Describe the benefits on client using their product and some data on how much time/money that are saving by using the startups product
+🚀 Track Record
+Funding
+How much funding has the company raise thus far, what are the sources of funding and what has the funding enabled the company to do
+Revenue:
+how much revenue has the company generated to date and what is the last months revenue.
+mention the latest updates on new clients or revenue figures
+Product Development/Technology:
+what is the latest information on the technology or product
+what are the current features of the product that investors would want to know
+provide information on an existing working prototype
+Partnerships:
+list some of the Key partnerships and the nature of the relationship
+list any pilots or launches or tests done
+list the details of any commercial or partnership deals signed
+IP:
+search for any information about the intellectual property or patents filed or granted.
+🏬 Product Offering
+Products/Services:
+what are the key products or services offered and what does it enable the clients to do that improves their current way of working
+Pricing:
+Description of pricing or subscription models in detail with figures
+Value Proposition:
+How does the product offering provide value to customers?
+⚱ Business Model
+Revenue Generation: How does the company generates revenue and from whom
+Costs:
+provide a breakdown on the COGS on the product
+Scaling:
+provide a summary of what enables this company to scale, show the unit economics of the revenue and profit over 5 years
+💸 Investment Opportunity
+Provide a summary of the investment need: how much is being raised and what will the investment enable the company to achieve and the revenue projected for year 3, 4 and 5. When will they raise the next investment round?
+Use of Funds:
+analysing the finances of the company, breakdown what the funds will be used for and allocate a percentage to each one. For each year starting with 2024 until 2028 provide a bullet point summary of the key goals and milestones that the company has
+Deal Terms:
+what are the general terms of the deal: is it via equity, SAFE or convertible note, what is the pre-money valuation and when does the round close?
+Exit Strategy:
+research the exits in this industry for companies similar to this one. Look at the competitors and possible exits or acquisitions
+Comparable Investments: Provide a detailed summary of investments into competitors, what the the investment trends are within this sector over the past 2 years and any predictions for the next year
+📊 Financial Overview
+Pricing and Unit Economics:
+provide a summary of the Details on pricing and unit economics, what is the average annual recurring revenue per client, what is the average cost to acquire a client
+Go-to-Market Strategy:
+provide details on how the company acquires its clients and create a table with the number of clients per year and the projected revenue from that
+Profitability Metrics:
+provide the Key financial metrics and breakeven timeline
+create a table for 2024 to 2028 with the data for number of clients, revenue, operational costs, COGS and gross profit
+Historical finances:
+Provide a summary of the historical financial data
+🌍 Market Size
+Industry Trends
+research and summarise the Key industry trends and growth drivers across the country and continent of the startups
+Market Size:
+provide and calculate the TAM, SAM ,SOM using the bottom-up approach based on the geographies that it wants to address
+Market Forecast:
+research, analyse and summarise the quantification and forecast of the total market size
+Target Segments:
+breakdown the different market segments that the company will target
+add qualitative data to each segment and the potential market value
+How to determine market size
+🏆 Competition
+Research all the competitor
+make a table of the major competitors and compare their technology, pricing, market share, investment secured
+How to approach competition
+Summary
+
+Addressing competition in startup pitch decks is crucial; ignoring it or making exaggerated claims can hurt credibility.
+
+Highlights
+📈 Competition is inevitable and can drive innovation.
+❌ Ignoring competition signals lack of demand or research.
+📊 Cherry-picking competitors can mislead investors.
+🏆 Avoid exaggerated claims about superiority to maintain credibility.
+🔍 Identify specific gaps in the market your startup will fill.
+📉 Presenting a comprehensive market view is more effective.
+🗺️ Simplifying competitive positioning helps investors understand your place.
+Key Insights
+🌊 Embrace Competition: Viewing competition positively can inspire improvements and drive progress in your startup. Understanding this dynamic is essential for growth.
+📚 Do Your Homework: Not addressing competition can imply that you haven’t researched the market thoroughly, which can deter potential investors.
+🧩 Avoid Cherry-Picking: Highlighting selective features of competitors can create a biased view; provide a holistic perspective to build credibility.
+🚫 Credibility is Key: Making bold claims about being better than industry giants can undermine your pitch. Aim for balanced comparisons to maintain investor trust.
+🎯 Identify Market Gaps: Focus on specific needs unmet by competitors; this shows strategic thinking and a clear market opportunity.
+📊 Comprehensive Market View: Use visual tools like charts to present an objective analysis of the competitive landscape, enhancing clarity for investors.
+📏 Simplify Positioning: Clear and straightforward positioning against competitors makes it easier for investors to grasp your unique value proposition and market role.
+
+🧲 Team
+Team background:
+create a summary of the team and why this is the right team to run and grow this company
+summarise their origin story and how the business came about
+Founders' Background:
+for each founder, create a profile summary with their Background and experience relevant to the business, market or industry
+Management Team:
+provide a summary of the overview of key management team members and their roles
+Board and Advisors: provide a summary of the Details on board members and advisors, their value, and their relevance to the business, market, technology
+♻ Risks & Moat
+Risks:
+provide a detailed summary of the Main risks associated with the business or industry. Market and execution risks, regulation or legal compliance
+Risk Mitigation:
+what are the founders doing to de-risked this
+Moat:
+summarise the competitive advantage that the team has over its compeitors. What moats do they have in place
+Success Factors: list a few Reasons the company will succeed over potential competitors
+Once you have completed and populated the above headings and subheading, summarise why this is a good investment deal in the format below
+Why is this a good investment?
+Traction: emphasis what the team has been enable to execute on in a very short time
+Team: summarise why this is the right team and the right time
+Technology: provide evidence that the market is open and willing to pay for this technology
+TAM: research the size of the market in the country of operation, the continent and then globally
+Moat: emphasise what this company has that its competitors dont
+
+Here is the pitch deck content (PDF-converted text):
+
+{text}
+
+🧠 External Web Research (via Brave Search):
+{research}
+
+📊 Here's their Financial Summary you should use:
+{financial_summary}
+
+Here is the pitch deck content (PDF-converted text):
+
+{text}
+
+🧠 External Web Research (via Brave Search):
+{research}
+
+📊 Here's their Financial Summary you should use:
+{financial_summary}

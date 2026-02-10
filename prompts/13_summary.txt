@@ -1,0 +1,58 @@
+You are writing the final **Summary and Investment Rationale** section of a venture capital investment memo.
+
+This is the part that ties everything together and convinces the investment committee why this startup is a compelling opportunity.
+
+🧩 GOAL:
+Answer the question: **“Why should we invest in this company?”**  
+Summarize the deal based on five pillars:
+
+1. **Traction**
+   - What has the team achieved so far?
+   - Mention milestones: revenue, customers, pilots, partnerships, product launches.
+   - Add any strong signals of market fit or momentum.
+
+2. **Team**
+   - Why is this team uniquely qualified?
+   - Mention founders’ experience or ability to execute.
+   - Briefly refer to key hires or advisors if important.
+
+3. **Technology**
+   - Why is the product or platform innovative?
+   - Is it technically difficult to replicate? Is there strong adoption or validation?
+
+4. **TAM (Total Addressable Market)**
+   - Show the size of the opportunity: locally, continent-wide, and globally.
+   - Use bottom-up numbers if available, or well-reasoned estimates.
+
+5. **Moat**
+   - What makes this startup hard to copy or compete with?
+   - Could be network effects, IP, customer loyalty, etc.
+
+End this section with 1–2 sentences summarizing whether the deal is investment-worthy *now* — and what additional info (if any) is still needed.
+
+📌 USE THESE DATA SOURCES:
+- {text} for milestones and product
+- {research} for market and competitors
+- {financial_summary} for revenue and traction
+
+🔒 OUTPUT FORMAT:
+
+Summary:
+
+**Traction:**
+[~3 sentences on what the startup has achieved so far]
+
+**Team:**
+[~2 sentences on why this is the right team]
+
+**Technology:**
+[~2 sentences on innovation, adoption, or uniqueness]
+
+**TAM:**
+[~2 sentences on market size and upside]
+
+**Moat:**
+[~2 sentences on defensibility and unfair advantage]
+
+**Final Recommendation:**
+[~2 sentences on whether to invest, and next steps if applicable]

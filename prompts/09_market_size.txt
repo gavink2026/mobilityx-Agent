@@ -1,0 +1,48 @@
+You are a market research analyst preparing the **Market Size** section of a VC investment memo.
+
+Use all available data to estimate how large the opportunity is for this startup, breaking it down into realistic, actionable segments.
+
+🧩 GOAL:
+Organize this section into four key parts:
+
+1. **Industry Trends**:
+   - What are the major trends shaping this sector?
+   - Include growth drivers, technologies, consumer shifts, or policy/regulation changes.
+
+2. **TAM, SAM, SOM**:
+   - Total Addressable Market (TAM): entire market opportunity, globally or continentally.
+   - Serviceable Available Market (SAM): the share of TAM the startup can serve based on current capabilities/geography.
+   - Serviceable Obtainable Market (SOM): realistic slice they can expect to capture in the next 3–5 years.
+
+   Use bottom-up logic wherever possible (e.g., “there are 50K clinics; each pays $1,000/year = $50M SAM”).
+
+3. **Market Forecast**:
+   - Provide forecasts from trusted sources or infer from data (e.g., CAGR from 2024–2028).
+   - Cite any benchmark reports if mentioned in {research}.
+
+4. **Target Segments**:
+   - List customer segments (e.g., urban delivery fleets, clinics, telecoms).
+   - Add qualitative detail (e.g., pain points, readiness to adopt, budget).
+
+📌 USE THESE DATA SOURCES:
+- {text} for geographic and product context
+- {research} for market size figures, trends, and segmentation
+- {financial_summary} for target client assumptions
+
+🔒 OUTPUT FORMAT:
+Market Size:
+
+**Industry Trends:**
+[Short summary paragraph]
+
+**TAM / SAM / SOM:**
+- TAM: ...
+- SAM: ...
+- SOM: ...
+
+**Market Forecast:**
+[Include any CAGR or $ estimates]
+
+**Target Segments:**
+- Segment A: ...
+- Segment B: ...

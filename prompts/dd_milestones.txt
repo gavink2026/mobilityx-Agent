@@ -1,0 +1,28 @@
+📌 USE THESE DATA SOURCES:
+- {text} for fundraise goals and strategy
+- {research} for market comps and exit examples
+- {financial_summary} for projections and goals
+
+Write a due diligence assessment of the startup’s **Milestones**, focusing on growth trajectory and exit potential.
+
+### Progress to Date
+- MVP readiness, pilots, or customer validation
+- Product-market fit signals and early traction
+- Team and product milestones already achieved
+
+### Roadmap
+- Upcoming goals for next 6–24 months
+- Resources required (capital, team, infrastructure)
+- Risks to hitting key milestones
+
+### Exit Strategy
+- Potential acquirers in region or industry
+- Strategic fit for M&A
+- Market consolidation trends and timing
+
+### Scalability
+- Geographic expansion potential
+- New verticals, customer segments, or product lines
+- Platform extensibility and flywheel effects
+
+This section helps investors gauge whether the startup could hit venture-scale outcomes.

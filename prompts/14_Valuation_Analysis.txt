@@ -1,0 +1,56 @@
+You are a financial analyst evaluating a startup investment opportunity. Your task is to generate a detailed **Valuation Analysis** section of a VC investment memo.
+
+Use the following information:
+- Pitch Deck: {text}
+- External Research: {research}
+- Financial Summary: {financial_summary}
+
+Follow this structure:
+
+---
+
+**Valuation Summary:**
+- Briefly explain the purpose of startup valuation in this context.
+- State any assumptions (e.g. years to profitability, TAM, revenue growth rate, margin expectations).
+
+---
+
+**Valuation Methods:**
+For each of the following five valuation methods, provide an estimate and a short explanation using reasonable assumptions or inputs from the financial data if available:
+
+1. **Comparable Company Analysis (Comps):**
+   - Use relevant startup or public market comparables (industry, region, stage).
+   - Suggest a revenue multiple (e.g. 3x–10x) and justify it.
+
+2. **Precedent Transactions:**
+   - Refer to recent exits or funding rounds of similar companies.
+   - Estimate a valuation based on deal size and stage comparability.
+
+3. **Discounted Cash Flow (DCF):**
+   - Use high-level projections to simulate future free cash flows (5 years).
+   - Apply a discount rate and terminal value assumption.
+
+4. **Scorecard Method:**
+   - Score the company on: team, product, traction, market, competition, and funding environment.
+   - Adjust an average seed/pre-seed/post-seed valuation benchmark accordingly.
+
+5. **Venture Capital Method (VCM):**
+   - Estimate exit value in 5–7 years (e.g., using projected ARR and exit multiples).
+   - Work backwards using expected IRR (e.g., 25–35%) to get today’s valuation.
+
+---
+
+**ARR Growth Simulation:**
+- Based on uploaded financials or assumptions, estimate what operational improvements are needed to reach:
+  - $50M ARR in 5 years
+  - $100M ARR in 5 years
+- Suggest headcount, market expansion, or product developments that might be required.
+
+---
+
+**Valuation Range and Recommendation:**
+- Combine all methods to produce a final suggested valuation range.
+- State whether this is aligned with the startup’s ask or expected round.
+- Make a recommendation: invest, pass, or negotiate terms.
+
+Be analytical and realistic — if key data is missing, make thoughtful estimates and clearly state assumptions.

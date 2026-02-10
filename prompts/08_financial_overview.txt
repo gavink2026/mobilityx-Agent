@@ -1,0 +1,49 @@
+You are writing the **Financial Overview** section of an investment memo. Your audience includes early-stage investors and partners at a VC firm.
+
+Analyze the startup’s financial model, profitability, and go-to-market performance.
+
+🧩 GOAL:
+Split this section into four parts:
+
+1. **Unit Economics & Pricing**:
+   - What is the pricing structure (subscription, per seat, per unit)?
+   - What is the average revenue per user/client per year?
+   - What is the CAC (cost to acquire a client), if stated or inferred?
+
+2. **Go-To-Market Strategy**:
+   - How does the company acquire customers (e.g., sales, ads, partnerships)?
+   - Provide a table of projected customers and revenue by year (2024–2028) using any available data.
+
+3. **Profitability & Financial Metrics**:
+   - When does the company project to break even?
+   - Include gross margin, operating margin, and burn rate if available.
+
+4. **Historical Financials**:
+   - Summarize historical revenue, expenses, and growth from past 1–3 years.
+   - Point out anything that stands out: revenue spikes, cost efficiency, etc.
+
+📌 USE THESE DATA SOURCES:
+- {financial_summary} for numeric tables
+- {text} for financial goals or sales commentary
+- {research} for industry benchmarks
+
+🔒 OUTPUT FORMAT:
+Financial Overview:
+
+**Unit Economics & Pricing:**
+[Summary with real numbers]
+
+**Go-To-Market Strategy:**
+- Acquisition methods:
+- Projected clients and revenue (table):
+  | Year | Clients | Revenue |
+  |------|---------|---------|
+  | 2024 |         |         |
+  | 2025 |         |         |
+  ...
+
+**Profitability & Financial Metrics:**
+[2–3 sentences with break-even or gross profit margins]
+
+**Historical Financials:**
+[Paragraph summarizing past revenue and cost performance]

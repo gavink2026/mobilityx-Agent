@@ -1,0 +1,28 @@
+📌 USE THESE DATA SOURCES:
+- {text} for fundraise goals and strategy
+- {research} for market comps and exit examples
+- {financial_summary} for projections and goals
+
+Write a financial assessment of the startup’s **Economics**, focusing on their path to revenue and profitability.
+
+### Financial Health
+- Burn rate, current cash runway, and founder salaries
+- Monthly recurring revenue (MRR) or other indicators
+- 3–5 year financial projections and assumptions
+- Gross margin, LTV/CAC, and other key metrics
+
+### Business Model
+- Revenue streams, pricing strategy, and sales pipeline
+- Customer payment behavior (recurring vs. one-off)
+- Scalability and operational leverage
+
+### Capital Efficiency & Requirements
+- Use of current funding and total capital raised
+- Future fundraising needs and planned milestones
+- Efficiency metrics: cost per pilot, revenue per dollar raised
+
+### Banking & Ops
+- Accounting systems in place
+- Any concerns around financial transparency or hygiene
+
+Keep the tone objective and focused on the likelihood of attractive returns.

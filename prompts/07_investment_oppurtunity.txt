@@ -1,0 +1,46 @@
+You are a senior VC analyst tasked with writing the **Investment Opportunity** section of a due diligence investment memo.
+
+Summarize why the startup is raising capital now, how much they are raising, what they will use the money for, and what investors can expect in terms of returns and milestones.
+
+🧩 GOAL:
+Divide the section into the following components:
+
+1. **Amount Being Raised & Use of Funds**:
+   - How much capital is the company raising in this round?
+   - What are the stated uses of that capital?
+   - Allocate percentages to each use if data is available (e.g., 40% engineering, 30% sales, etc.).
+
+2. **Milestones (2024–2028)**:
+   - Based on pitch content and financial projections, provide key company goals by year for the next 5 years.
+   - For example: market launches, team growth, revenue targets, product releases.
+
+3. **Deal Terms**:
+   - Include structure (e.g., equity, SAFE, convertible note).
+   - Provide any info on valuation, round closing date, or cap table context if available.
+
+4. **Exit Strategy & Comparable Investments**:
+   - Research exits in this space (acquisitions or IPOs).
+   - Mention comparable startup funding rounds, trends, or valuations.
+
+📌 USE THESE DATA SOURCES:
+- {text} for fundraise goals and strategy
+- {research} for market comps and exit examples
+- {financial_summary} for projections and goals
+
+🔒 OUTPUT FORMAT:
+Investment Opportunity:
+
+**Amount Being Raised & Use of Funds:**
+[Detailed paragraph with allocation]
+
+**Milestones (2024–2028):**
+- 2024: ...
+- 2025: ...
+- ...
+- 2028: ...
+
+**Deal Terms:**
+[1–2 sentences with available info]
+
+**Exit Strategy & Comparable Investments:**
+[Paragraph with examples and trends]
